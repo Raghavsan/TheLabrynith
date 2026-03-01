@@ -1,0 +1,314 @@
+
+
+
+*--------------------The Mazes for this Run of the code are printed below--------------------*
+
+
+
+---Index 1---
+
+*----------------------------------------------------------------------------------------------------------------------------------*
+|S        H     H             H   H       H         H     H         H     H           H             H       H                     H|
+| HHHHHHH H HHH H HHHHH HHHHH H H HHHHH HHH HHHHH H H H HHH H HHHHH H HHH H HHHHHHH H H HHHHHHH HHH H HHH H HHHHHHHHH HHHHHHHHHHH H|
+|     H   H   H     H H H H   H H     H     H     H   H H   H     H H H H H H     H H H       H   H H H H H         H   H       H H|
+| H HHH HHH HHHHHHH H H H H HHH HHHHH HHHHHHH HHHHHHHHH H HHHHHHH HHH H H H H H HHH H H HHHHH HHH H H H H HHHHHHHHH HHH H HHHHH HHH|
+| H   H   H H     H   H H H H   H   H         H   H     H   H H   H   H H H H H   H H H H   H H   H H   H         H     H     H   H|
+| HHH HHH H H HHH H HHH H H H H H H HHHHHHHHHHH HHH HHHHHHH H H H H HHH H H HHHHH H H HHH H HHH HHHHHHH HHHHHHHHH HHHHH HHHHH HHH H|
+| H H     H H   H H H   H   H H H H     H     H       H   H H H H H H   H H       H H H   H   H     H   H   H   H   H   H     H   H|
+| H HHHHHHH HHH H HHH HHH HHHHH H HHHHH H HHH H HHHHHHH H H H H HHH H H H H HHHHHHH H H HHHHH HHH H H HHH H H H HHH HHHHH HHHHH H H|
+|       H   H   H     H H     H       H   H   H H       H H H H   H H H H H H     H H   H   H   H H H H   H H H   H       H     H H|
+|HHHHHH HHHHH HHHHHHHHH HHHHH HHHHHHH HHHHH HHHHH HHHHHHH H H HHH H H HHH H H HHH H HHHHH HHHHH HHH H HHH HHH H H HHHHHHHHH HHHHHHH|
+|     H   H   H     H H     H   H   H   H H       H       H   H   H H   H   H H H   H   H     H H   H   H H   H H   H     H       H|
+| H HHHHH H HHH HHH H H HHH HHH H H HHH H HHHHH HHH HHHHHHHHH H HHH HHH HHHHH H HHHHHHH H HHH H H HHHHH H H HHH HHHHH H H HHHHHHH H|
+| H     H H     H   H   H   H H H H       H   H   H     H     H         H     H       H H H H   H     H H H   H H     H H       H H|
+|HHHH H H H HHHHH HHHHH H H H H H HHHHHHHHH H HHHHHHHHH H HHHHHHHHHHHHHHH HHHHHHHHH H H H H HHHHHHH H H H H HHH H HHHHH HHHHH HHH H|
+|     H H H H   H     H H H H H H H         H H       H   H               H         H   H H         H H H   H   H H H   H   H H   H|
+| HHHHH H HHH H HHH H H H H H H HHH HHHHHHHHH H HHHHH HHH H HHH HHHHHHHHHHHHH HHHHHHH HHH H H HHHHHHHHH H HHH HHH H H HHH HHH H HHH|
+|   H   H H   H   H H H H H   H     H   H   H H H   H   H H H   H   H         H     H H   H H H   H     H   H H   H H H H     H   H|
+| H HHHHH H HHHHH H H HHH HHH HHHHHHH H HHH H H H H HHH HHH H HHH H HHH HHH HHH HHHHH H HHHHH H H H HHHHH HHH H HHH H H H HHHHHHH H|
+| H   H   H H   H H H   H H   H       H     H H H H         H   H H   H H   H         H H   H   H H H   H H   H     H H   H H   H H|
+| HHH H HHH H HHH HHHHH H H HHH HHH H HHHHHHH H H HHHHHHHHHHHHHHH HHH HHH HHH HHHHHHHHH H H HHHHH H HHH H H HHHHHHH H H HHH H H H H|
+|   H H   H H         H H H H     H H H       H H   H               H H   H H   H     H   H   H   H   H   H H   H   H H     H H H H|
+|HH H HHH H HHHHHHHHH H H HHH HHHHH H H HHHHHHH H HHH HHHHHHHHHHHHHHH H HHH HHH H HHH HHHHHHH H H HHH HHH H H H H HHH HHHHH H H H H|
+|   H   H H     H     H H H   H     H H H       H H   H     H       H H   H     H H H   H   H H H H H   H H   H   H   H     H H H H|
+| HHHHH H HHH H HHHHH H H H HHH HHHHHHH H HHHHH HHH HHH H HHH HHHHH H H H HHH HHH H HHH H H H H H H HHH H HHHHH HHH HHHHHHHHH H H H|
+| H H   H   H H     H   H   H H       H H H   H H   H   H   H   H H   H H   H     H   H H H H   H     H H H   H H   H         H   H|
+| H H HHHHH HHHHHHH HHHHH HHH HHHHHHH H HHH H H H HHH HHHHH HHH H HHHHH HHH HHH HHHHH H H H HHHHHHHHH H HHH H H H HHH HHHHHHHHHHH H|
+|   H     H H   H   H   H         H H H H   H   H H       H H   H         H H   H   H H H H       H   H     H H H   H H   H H     H|
+|HH HHHHH H H H H HHH HHHHHHHHHHH H H H H HHHHH H HHHHHHHHH H HHH HHHHHHHHH H HHH H H H H HHHHHHH H HHHHHHHHH HHHHH H H H H H HHHHH|
+| H H   H   H H   H     H         H H   H     H H   H       H H         H   H   H H H   H     H H       H     H     H H H H H   H H|
+| H H H HHHHH HHHHHHHHH H HHHHHHHHH HHHHH HHH HHHHH H HHHHH H H HHHHHHHHH HHHHHHH H HHHHHHHHH H HHHHHHH H HHHHH HHH H H H H HHH H H|
+|   H H     H   H   H   H   H       H     H   H   H H H   H H H H         H     H H H     H     H   H   H H     H   H   H H     H H|
+| HHH HHH H H H H H H H HHH HHH H HHH HHHHH HHH H H H HHH H H H H HHHHHHHHH HHH H H H H HHH HHHHH H HHH H HHH H HHHHHHHHH HHHHH H H|
+| H   H   H H H H H   H   H   H H   H H H   H   H   H   H H H H H     H   H H H H H   H     H     H   H H   H H H       H     H   H|
+| HHHHH HHH HHH H HHHHHHH HHH HHHHH H H H HHH HHHHHHHHH H H H H HHHHH H H H H H H HHHHHHHHH H HHHHHHH HHHHH H H H HHHHH HHHHH HHH H|
+| H   H   H     H       H   H     H     H H   H         H   H H     H   H H H H       H   H H H   H   H     H H H     H H     H   H|
+| H H HHH HHHHHHH HHHHH HHHHHHHHH HHHHHHH H HHHHHHH H HHHHHHH HHHHHHH HHH H H HHHHHHHHH H HHH H H H HHH HHHHH H HHH HHH H HHHHHHHHH|
+| H H   H   H   H H   H         H       H H     H   H H     H   H   H   H     H     H   H   H   H H   H H     H H   H   H         H|
+| H HHH H H HHH H HHH HHHHHHHHH HHHHHHH H HHHHH H HHH H HHH HHH H H HHH HHHHH H HHH H HHHHH HHHHH HHH H HHH HHH H HHH H HHHHHHHHH H|
+|   H   H H   H     H       H     H   H H     H H   H H   H   H   H H   H   H H   H   H     H   H   H   H   H H H H   H H   H     H|
+|HHHH HHH HHH HHHHH HHHHH HHH HHH HHH H H H H H H H H HHH HHH HHHHH HHHHH H HHH HHHHHHH HHH H H HHH HHHHH HHH H H H HHH H H H HHHHH|
+|   H H   H   H   H H   H   H H H     H H H H H H H H   H H H     H   H   H     H   H   H     H   H     H H     H H H H   H H     H|
+| HHH HHHHH H H H H H H H H H H HHH HHH HHH H H H H HHHHH H H HHHHHHH H HHHHHHH H H H HHH HHHHHHHHHHHHH H HHHHHHH H H HHHHH HHHHH H|
+|     H     H H H H   H H H H H   H H   H   H H H H H       H H     H   H H   H H H H   H H     H     H H         H H       H     H|
+| HHHHH HHHHHHH H HHHHH HHH H H HHH H HHH HHHHH H H H HHHHHHH H H HHHHHHH H H HHH H H H H H HHH H HHH H H HHHHHHHHH HHHHHHHHH HHH H|
+|     H     H   H   H     H H H   H H   H       H H     H   H   H       H H H     H H H H H H H H H H H H H     H   H   H     H   H|
+|HHHH H HHH H HHHHH HHHHH H H HHH H HHH H HHHHHHHHHHHHHHH H HHHHHHHHH H H H HHHHHHH H H HHH H H H H H H H H HHHHH HHH H H HHHHH HHH|
+|   H H   H   H   H     H H H   H   H   H             H   H     H   H H   H H   H   H H   H   H H H H   H   H   H H   H   H     H H|
+| HHH HHHHHHH HHH HHHHH H H HHH HHHHH HHHHHHHHHHHHHHH H HHHHHHH H H H HHHHH H H H HHHHHHH HHH H H H HHHHHHHHH H H H HHHHHHH HHHHH H|
+|   H   H   H   H     H H H   H       H       H   H     H     H H H   H     H H H H     H H   H           H   H H H   H   H H     H|
+| H HHH H H HHH H HHHHH H HHH HHHHHHHHH HHHHH H HHH HHHHH HHH H H H HHH HHHHHHH H H HHH H H HHHHHHHHHHHHH H HHH H HHH HHH H HHH H H|
+| H   H   H H     H     H     H         H H   H   H H   H   H     H H   H       H H H     H H   H     H   H H H H   H   H H   H H H|
+| HHH HHHHH HHHHHHH HHHHHHHHH HHH HHHHHHH H HHH H H H H HHHHHHHHHHHHH HHHHH HHHHH H HHHHHHH H HHH HHH H HHH H H H H HHH H HHH HHH H|
+| H   H   H H     H H       H   H       H H H   H   H H         H   H     H       H     H   H H   H H H     H H   H   H H   H   H H|
+| H H HHH H H HHH H HHH HHHHHHH HHH HHH H H H HHHHHHH HHH HHHHH H H HHH H H HHHHHHH HHH H HHH H HHH H HHHHHHH HHH HHHHH H H HHH H H|
+| H H     H   H H H   H       H   H H   H   H   H   H H   H   H   H   H H H   H       H H     H H   H   H H     H H     H H     H H|
+| H HHHHHHHHHHH H HHH HHH HHH HHH HHH HHH HHHHH HHH H H HHH H HHHHHHH HHH HHH HHHHHHH H H HHHHH HHH HHH H H HHH H H HHHHH HHHHHHH H|
+| H H     H     H   H   H   H   H H   H     H     H H H   H H   H         H       H   H   H     H   H   H   H H   H H H   H     H H|
+| H H HHH H HHH HHH H H HHH HHH H H HHHHHHH HHHHH H H HHHHH HHH HHHHHHHHHHHHHHHHH HHH HHHHH HHHHH H H HHH HHH HHHHH H H HHH H H H H|
+| H     H H H H   H H H H H   H H H       H   H     H H       H             H   H   H   H H H     H H   H       H   H   H H H H H H|
+| HHHHHHH H H H HHH H H H HHH H H H HHHHH HHH HHHHH H H HHHHHHHHHHHHHHHHHHH HHH HHH HHH H H H HHHHH HHH HHH HHHHH HHH HHH H H H H H|
+|   H   H H H H     H H H   H H   H H   H H       H H       H       H     H   H   H H   H H H     H   H   H H     H H   H   H H   H|
+|HH H H H H H HHHHHHH H HHH H HHHHHHH H H HHHHHHH HHHHHHHHHHH HHHHH H HHH H H H H H H HHH H H HHH H HHHHH H H HHHHH HHH H HHH HHH H|
+| H H H   H H   H     H   H H H     H H H     H   H     H     H H   H H H H H H H   H     H H H H H H     H H H     H   H H   H   H|
+| H H HHHHH H H HHHHHHHHH H H H HHH H H HHHHH H HHH HHH H HHHHH H HHH H H HHH H HHHHHHHHHHH H H H HHH HHHHHHH H H HHH HHHHH HHH HHH|
+|   H         H           H     H     H       H     H     H           H       H             H   H             H H           H     H|
+*----------------------------------------------------------------------------------------------------------------------------------*
+
+The time taken by the DFS algorithm is 0.000637 seconds
+
+
+*--------------------The Mazes for this Run of the code are printed below--------------------*
+
+
+
+---Index 1---
+
+*------------------------------------------------------------------------------------------------------------------------------------------------------*
+|S        H H         H                           H       H             H         H     H     H       H     H H   H               H         H       H H|
+| HHHHHHH H H HHHHH H HHHHH HHH HHHHHHHHHHHHHHHHH H HHH HHH HHH HHHHHHHHH HHHHH H H HHH HHH HHH H HHHHH H H H H H H H HHHHHHHHHHH HHHHH HHHHH HHH H H H|
+|     H   H H H H   H H     H   H   H     H   H   H H H     H H   H   H   H   H H   H H     H   H     H H H H H H   H     H   H H       H     H H H   H|
+| H HHH HHH H H H HHH H HHHHH HHH H H HHH H H H HHH H HHHHHHH HHH H H H HHH HHH HHHHH H HHHHH HHHHHHH H H H H H HHHHH HHH H H H HHHHHHH H HHHHH H HHH H|
+| H   H   H H H H   H   H H   H   H H   H   H   H H   H       H   H H H H   H   H       H     H H     H H H H   H   H H H H H H         H     H H   H H|
+| HHH HHH H H H HHH HHHHH H HHH HHH HHH HHHHHHHHH HHH H H HHHHH H H H H H HHH HHHHHHHHHHH HHHHH H HHHHH H H HHHHH H H H H H H HHHHH HHHHHHHHH H HHH H H|
+| H H     H   H   H H         H   H   H   H   H         H H     H H H     H   H     H   H H     H   H   H H     H H H H H H H H   H H   H   H   H   H H|
+| H HHHHHHH HHHHH H HHHHHHHHHHHHH HHH HHH H H HHHHHHHHHHHHH HHHHH H HHHHHHH H H HHH H H H HHHHH HHH H HHH HHHHH H H H H H H H H H H H HHH H HHH H HHHHH|
+|       H   H   H H             H   H H H   H H           H     H H H H   H H H H H   H   H       H   H   H   H   H H   H   H H H H   H   H     H     H|
+|HHHHHH HHH H H H HHHHHHHHH H HHH HHH H HHHHH H HHHHHHHHH H HHH HHH H H H H HHH H HHHHHHHHH HHHHH HHHHH HHH HHHHHHH HHHHHHHHH H H HHHHH HHHHHHHHHHHHH H|
+|     H   H   H       H   H H     H   H     H   H       H H   H       H H   H   H     H H   H H   H   H H   H       H   H   H   H     H         H     H|
+| H HHHHH HHHHH HHHHH H H H HHHHHHH HHH HHHHHHHHHHHHH HHH HHH HHHHHHHHH H HHH HHH H H H H H H H HHHHH H H H H HHHHHHH H H H HHH HHHHH HHHHHHHHH H HHHHH|
+| H     H H   H H   H H H H       H   H   H           H   H       H     H H   H H H H   H H H         H H H       H   H   H   H H   H   H       H H   H|
+|HHHH H H H H H H H HHH H HHHHHHH HHH HHH H HHH HHHHH H HHHHHHHHHHH HHHHH H HHH H H HHHHH H HHHHHHHHH H HHHHHHHHH H HHHHHHHHH HHH H HHH H HHHHHHH H H H|
+|     H H H H H H H     H H     H   H H   H H H H   H H           H H     H   H   H       H       H H H     H   H H H       H   H H     H H     H   H H|
+| HHHHH H H H H H HHHHHHH H HHH HHHHH H H H H H H H HHH HHHHHHHHH H HHHHHHHHH HHHHH HHHHHHHHHHHHH H H HHHHH H H H H H H HHHHHHH H HHHHHHH H HHH HHHHH H|
+|   H   H H H   H H   H   H H H   H   H H H   H   H     H       H   H       H     H H   H   H   H H H   H H H H H   H H   H   H H         H   H     H H|
+| H HHHHH H HHHHH H H H HHH H HHH H HHH HHH HHHHHHHHH HHH HHHHH HHH H HHH H HHHHH H H H H H H H H H HHH H H HHH HHHHHHHHH H H H H HHHHHHH HHH HHHHH H H|
+| H   H   H H     H H H H   H   H H H       H       H H H H   H   H H   H H   H   H H H   H   H H H   H   H H   H       H H H H H H     H   H H   H H H|
+| HHH H HHHHH HHHHH HHH H HHH H H H HHHHHHHHH HHHHH H H H H H HHH HHHHH H HHHHH HHHHH HHHHHHHHH H H HHHHH H H HHH H HHH H H H H HHH HHH HHHHH HHH H H H|
+|   H H   H   H           H   H   H   H     H H     H   H H H H   H   H H   H   H     H       H   H       H H H   H H H   H H H     H H H   H   H   H H|
+|HH H HHH H HHHHHHHHHHH HHHHH HHHHHHH H HHH H H HHHHHHHHH H H H HHH H H HHH H HHH HHHHHHHHHHH HHHHH HHHHHHH H H HHH H HHH H H HHHHHHH H H H H H HHH H H|
+|   H   H H           H H   H       H     H   H   H   H   H H H   H H H   H H   H H   H     H     H H     H H H H   H     H H     H   H   H H H   H   H|
+| HHHHH H HHH HHHHHHH H H H HHHHHHH HHHHH HHHHHHH H H H HHHHH HHH H H H HHH HHH H H H H HHH H HHHHH H HHH H H H H HHHHH HHH HHH H HHH HHHHH HHHHH HHH H|
+| H H   H   H H     H H H H H     H     H H     H H H H     H   H   H   H     H H H H   H   H H     H H     H H H     H H     H H       H   H     H H H|
+| H H HHHHH H H H HHH HHH H H HHH HHHHH HHH HHH H H H HHHHH H H HHHHHHHHH HHHHH H H HHHHH HHH H HHHHH H HHHHH H HHHHH HHH HHHHH HHHHHHH H HHH HHHHH H H|
+|   H     H H   H H   H   H H H   H   H H   H H H   H H   H H H   H     H H   H H   H     H     H     H H   H   H H   H   H   H   H     H   H H     H H|
+|HH HHHHH H HHHHH H HHH HHH H H HHHHH H H HHH H HHH H H H H H H H H HHH H H H H H HHH HHHHHHHHHHH HHHHH H H HHH H H HHH HHH H HHH H HHHHHHH H HHHHH H H|
+| H H   H   H H   H   H H H   H     H   H H   H   H H   H   H H H H H   H   H   H   H H           H     H H   H   H     H   H     H     H   H     H H H|
+| H H HHHHHHH H HHHHH H H HHHHHHHHH H HHH HHH HHH H HHHHHHHHH H H HHH H HHHHHHH HHHHH H HHH HHHHHHHHHHHHH HHH HHH HHHHH H HHHHHHHHHHHHH H HHH HHH H H H|
+|   H   H     H H H   H H     H   H H     H   H   H   H   H   H H     H H     H     H H H   H               H H   H   H H   H           H H   H   H   H|
+| HHH H H HHH H H H HHH HHHHH H H H HHHHHHH H H HHHHH HHH H HHH HHHHHHHHH HHH HHHHH H H H HHH HHHHHHHHHHHHHHH HHHHH H HHHHH H HHHHHHHHHHH H HHH HHHHH H|
+| H   H H H   H H H H   H     H H H H       H H   H     H   H   H   H     H   H       H H H   H H   H       H H   H H       H H         H H   H     H H|
+| HHHHH H H HHH H H H HHH HHHHH H H HHHHH HHH HHH HHHHH HHHHH HHH H H HHHHH HHHHHHHHH H HHH HHH H H H HHHHH H H H H HHHHHHH HHH HHHHHHH H HHHHHHH H HHH|
+| H   H   H   H   H H H   H     H H H   H   H   H   H H       H   H   H     H     H   H H   H     H H   H H   H H   H   H H H   H     H H       H H   H|
+| H H HHH HHH HHH H H H H H HHHHH H H H HHH H HHHHH H HHHHHHH H HHHHHHH HHHHH HHH HHHHH H HHH HHHHH HHH H HHHHH HHHHH H H H H HHH HHHHH HHHHHHH HHHHH H|
+| H H   H   H     H   H H   H     H H H   H H H     H   H   H H   H   H H   H   H H   H   H   H     H   H       H     H   H H H   H           H       H|
+| H HHH HHH HHHHHHHHHHH HHHHH HHH H H HHH H HHH HHHHHHH H H H HHH HHH H HHH H H H H H HHH HHH H HHHHH HHH H HHHHH HHH HHHHH H HHH H HHHHHHHHH HHHHHHH H|
+|   H   H   H         H H   H H   H     H H           H   H   H H   H H   H   H H   H   H   H H     H H H H   H     H     H H     H H   H   H     H   H|
+|HHHH HHH HHHHH HHHHH HHH H H HHHHHHHHHHH HHHHHHHHHHH HHH HHHHH HHH H HHH HHHHH HHHHHHH HHH H HHHHH H H H HHH H HHHHHHHHH H HHHHH H H H H HHH HHHHH HHH|
+|   H H H H     H         H H H     H     H         H   H         H H   H   H   H H     H H H     H H H   H   H   H       H   H   H H H H     H   H H H|
+| HHH H H H HHHHH HHHHHHHHH H H HHH H HHHHH HHHHHHH HHH HHHHH HHHHH H H HHH H HHH H HHHHH H HHHHHHH H H HHH HHHHH H H HHHHHHH H HHH H H HHHHH H H H H H|
+|     H H H H H   H     H     H   H H H   H   H   H H H   H H H     H H     H H   H     H         H H H   H H     H H H     H H H   H H H   H H H H   H|
+| HHHHH H H H H HHH HHH HHHHH HHH H H H H H HHH H H H HHH H H H HHHHH HHHHHHH HHH HHHHH HHHHHHHHH H H HHH H HHH HHH H H H HHH H H H H H H H HHH H HHH H|
+|     H   H H H   H H H   H   H   H   H H H H   H   H   H H   H H H   H     H   H       H   H H   H H H   H   H H   H H H H   H H H H H   H     H   H H|
+|HHHH H HHH H HHH H H HHH HHH H HHHHHHH H H H HHHHHHH H H H HHH H H HHH H H HHH H HHHHHHH H H H HHH H HHHHHHH HHH HHHHH H H HHH H HHH HHHHHHHHHHHHH H H|
+|   H H     H   H H H   H   H H   H     H   H   H   H H   H H   H   H H H H H   H   H     H H       H   H   H   H     H H   H   H   H H           H   H|
+|HH H HHHHHHH H H H H HHHHH HHH H H HHHHHHHHHHH H H HHHHH HHH HHH HHH H H H H HHHHH H HHH H HHHHHHH HHH H H H H HHHHH H HHHHH HHHHH H H HHHHH HHH HHHHH|
+|   H   H   H H H H H     H   H H H H   H     H   H     H     H H   H   H H   H     H   H H H   H H H H   H H H H   H     H   H   H H H H   H   H     H|
+| HHHHH H H H H H H HHHHH HHH HHH H H H H HHHHHHHHHHHHH HHHHHHH HHH H HHH HHHHH HHHHHHHHH H H H H H H HHHHH HHH H H HHHHHHH HHHHH H H HHH H HHH HHHHH H|
+| H   H   H H H   H   H     H H   H   H H       H   H   H       H   H H   H     H         H   H H H H     H   H   H         H     H H     H H   H     H|
+| H H HHHHH HHHHHHHHH H HHHHH H HHHHHHH H HHHHH H H H HHH HHH H H HHHHH HHH HHHHH HHHHHHHHHHHHH H H H HHHHHHH HHHHH HHHHHHHHH H H H HHHHHHH HHHHH HHH H|
+|   H     H H     H   H H     H H   H   H H   H H H   H   H   H H       H H   H   H H     H     H   H       H     H H       H H H H   H   H H   H   H H|
+|HHHHHHHH H H HHH H HHH H HHHHH H H H HHH H H H H HHHHH HHH HHHHHHHHHHHHH HHH HHH H H HHH H HHHHHHH HHHHH H HHHHH H H HHHHH HHH H H H HHH H H H HHH H H|
+|       H H   H H H   H   H     H H H   H H H H H   H H H H   H         H   H     H   H H H       H       H H   H H   H H   H   H H H     H   H     H H|
+| HHHHH H HHHHH H HHH HHH H H HHH H HHH H H H H HHH H H H HHH H H HHHHHHH H HHHHHHH HHH H HHHHHHH HHHHHHHHH HHH H HHHHH H HHH HHH H HHHHHHHHHHHHHHHHH H|
+|   H     H     H   H   H   H H   H     H H H     H H H     H   H H       H             H     H   H     H   H   H   H   H H   H   H   H             H H|
+| H HHHHH H HHH HHH HHH HHHHH H HHHHHHHHHHH HHHHHHH H HHHHH HHHHH H HHHHHHHHHHHHHHHHHHHHHHH H H HHH H HHH HHH HHHHH H HHH HHH HHHHHHH H HHH HHHHHHH H H|
+| H H   H H H H   H H   H     H H   H       H       H H   H H   H H H     H         H       H H   H H   H H     H   H   H   H   H     H   H   H     H H|
+| H H H HHH H H HHH H HHH HHHHH H H H H HHHHH HHHHHHH H H H HHH H H H H HHH HHHHHHH H HHHHHHH HHH HHHHH H HHHHH H HHH H HHH HHH H HHHHHHH HHH H HHHHH H|
+| H   H   H H H     H   H     H H H   H     H H     H   H H H   H   H H H   H       H   H   H   H     H H       H   H H       H H H     H H   H H   H H|
+| HHHHHHH H H HHHHHHHHH HHHHH H HHHHH HHHHH H H HHH H HHH H H H HHHHH HHH HHH HHH HHHHH H H HHHHHHHHH H HHHHHHH HHH HHH HHHHH H H H HHH H H HHHHH H H H|
+| H     H H H   H       H   H H H   H H     H H H   H H   H   H   H       H   H   H   H   H         H H H         H   H H   H   H     H   H H   H H   H|
+| H HHH H H HHH H HHH HHH H H H H H HHH HHHHH H H HHH H HHHHHHHHH H HHHHHHH HHH HHH H HHHHHHHHHHH HHH H H HHHHHHHHHHH HHH H HHH HHHHHHHHHHH H H H HHHHH|
+| H   H   H H   H   H H   H H H H H   H   H   H H H   H H       H H   H   H H H H   H     H       H   H   H     H   H H   H   H H H         H H   H   H|
+|HHHH H HHH H HHHHH H H HHH H H H HHH HHH H HHH H H HHH H HHH HHH HHH HHH H H H H HHHHHHH H HHHHHHH HHHHHHH HHH H H H H HHHHH H H H HHHHHHH H HHHHHHH H|
+|     H H   H   H   H     H H H H H H   H H   H H H H   H H H   H   H H   H H H H   H   H   H       H       H   H H H   H     H H H   H     H H       H|
+| HHHHH H HHH H H HHHHHHHHH HHH H H HHH H HHH HHH H H HHH H HHH HHH H H HHH H H HHH H HHHHH H HHHHHHH HHHHHHH HHH H H HHH HHHHH H HHH H HHHHH H HHHHHHH|
+| H     H H   H   H   H   H     H H   H H   H   H   H         H H   H   H   H H   H H       H     H       H   H   H H   H H         H H H   H H H     H|
+| HHHHHHH H HHHHHHH H H H HHHHH H H H H H H HHH HHHHHHHHHHHHHHH H HHH HHH HHH HHH H HHHHHHHHHHHHH HHH HHH HHH H HHH HHH H HHHHHHHHHHH H H H H H H HHH H|
+| H     H H       H H   H     H   H H H   H   H   H       H   H H   H H   H     H H             H   H   H   H   H   H   H H   H       H   H H H     H H|
+| H HHH H HHHHHHH H HHHHHHHHH HHHHH H HHHHHHH HHH H HHHHH H H H HHH H H HHH HHH H HHHHHHHHH HHH HHH HHHHH H HHHHH HHH HHH H H H H HHHHHHHHHHH HHHHHHH H|
+| H   H H   H   H H   H     H H   H H         H   H   H     H   H   H H H H H H H H       H   H   H H   H H H   H   H   H   H H H H   H   H   H     H H|
+| HHH H HHH H H HHHHH H HHHHH H H HHHHHHHHHHHHH HHH H HHHHHHHHHHH HHHHH H H H H H HHHHH H HHH HHHHH H H HHH H H HHH HHHHHHHHH H HHH H H H H HHH HHH H H|
+|     H       H       H         H               H   H                   H     H         H   H         H     H H               H     H   H       H     H|
+*------------------------------------------------------------------------------------------------------------------------------------------------------*
+
+The time taken by the DFS algorithm is 0.001086 seconds
+
+
+*--------------------The Mazes for this Run of the code are printed below--------------------*
+
+
+
+---Index 1---
+
+*------------------------------------------------------------------------------------------------------------------------------------------------------*
+|S        H H         H                           H       H             H         H     H     H       H     H H   H               H         H       H H|
+| HHHHHHH H H HHHHH H HHHHH HHH HHHHHHHHHHHHHHHHH H HHH HHH HHH HHHHHHHHH HHHHH H H HHH HHH HHH H HHHHH H H H H H H H HHHHHHHHHHH HHHHH HHHHH HHH H H H|
+|     H   H H H H   H H     H   H   H     H   H   H H H     H H   H   H   H   H H   H H     H   H     H H H H H H   H     H   H H       H     H H H   H|
+| H HHH HHH H H H HHH H HHHHH HHH H H HHH H H H HHH H HHHHHHH HHH H H H HHH HHH HHHHH H HHHHH HHHHHHH H H H H H HHHHH HHH H H H HHHHHHH H HHHHH H HHH H|
+| H   H   H H H H   H   H H   H   H H   H   H   H H   H       H   H H H H   H   H       H     H H     H H H H   H   H H H H H H         H     H H   H H|
+| HHH HHH H H H HHH HHHHH H HHH HHH HHH HHHHHHHHH HHH H H HHHHH H H H H H HHH HHHHHHHHHHH HHHHH H HHHHH H H HHHHH H H H H H H HHHHH HHHHHHHHH H HHH H H|
+| H H     H   H   H H         H   H   H   H   H         H H     H H H     H   H     H   H H     H   H   H H     H H H H H H H H   H H   H   H   H   H H|
+| H HHHHHHH HHHHH H HHHHHHHHHHHHH HHH HHH H H HHHHHHHHHHHHH HHHHH H HHHHHHH H H HHH H H H HHHHH HHH H HHH HHHHH H H H H H H H H H H H HHH H HHH H HHHHH|
+|       H   H   H H             H   H H H   H H           H     H H H H   H H H H H   H   H       H   H   H   H   H H   H   H H H H   H   H     H     H|
+|HHHHHH HHH H H H HHHHHHHHH H HHH HHH H HHHHH H HHHHHHHHH H HHH HHH H H H H HHH H HHHHHHHHH HHHHH HHHHH HHH HHHHHHH HHHHHHHHH H H HHHHH HHHHHHHHHHHHH H|
+|     H   H   H       H   H H     H   H     H   H       H H   H       H H   H   H     H H   H H   H   H H   H       H   H   H   H     H         H     H|
+| H HHHHH HHHHH HHHHH H H H HHHHHHH HHH HHHHHHHHHHHHH HHH HHH HHHHHHHHH H HHH HHH H H H H H H H HHHHH H H H H HHHHHHH H H H HHH HHHHH HHHHHHHHH H HHHHH|
+| H     H H   H H   H H H H       H   H   H           H   H       H     H H   H H H H   H H H         H H H       H   H   H   H H   H   H       H H   H|
+|HHHH H H H H H H H HHH H HHHHHHH HHH HHH H HHH HHHHH H HHHHHHHHHHH HHHHH H HHH H H HHHHH H HHHHHHHHH H HHHHHHHHH H HHHHHHHHH HHH H HHH H HHHHHHH H H H|
+|     H H H H H H H     H H     H   H H   H H H H   H H           H H     H   H   H       H       H H H     H   H H H       H   H H     H H     H   H H|
+| HHHHH H H H H H HHHHHHH H HHH HHHHH H H H H H H H HHH HHHHHHHHH H HHHHHHHHH HHHHH HHHHHHHHHHHHH H H HHHHH H H H H H H HHHHHHH H HHHHHHH H HHH HHHHH H|
+|   H   H H H   H H   H   H H H   H   H H H   H   H     H       H   H       H     H H   H   H   H H H   H H H H H   H H   H   H H         H   H     H H|
+| H HHHHH H HHHHH H H H HHH H HHH H HHH HHH HHHHHHHHH HHH HHHHH HHH H HHH H HHHHH H H H H H H H H H HHH H H HHH HHHHHHHHH H H H H HHHHHHH HHH HHHHH H H|
+| H   H   H H     H H H H   H   H H H       H       H H H H   H   H H   H H   H   H H H   H   H H H   H   H H   H       H H H H H H     H   H H   H H H|
+| HHH H HHHHH HHHHH HHH H HHH H H H HHHHHHHHH HHHHH H H H H H HHH HHHHH H HHHHH HHHHH HHHHHHHHH H H HHHHH H H HHH H HHH H H H H HHH HHH HHHHH HHH H H H|
+|   H H   H   H           H   H   H   H     H H     H   H H H H   H   H H   H   H     H       H   H       H H H   H H H   H H H     H H H   H   H   H H|
+|HH H HHH H HHHHHHHHHHH HHHHH HHHHHHH H HHH H H HHHHHHHHH H H H HHH H H HHH H HHH HHHHHHHHHHH HHHHH HHHHHHH H H HHH H HHH H H HHHHHHH H H H H H HHH H H|
+|   H   H H           H H   H       H     H   H   H   H   H H H   H H H   H H   H H   H     H     H H     H H H H   H     H H     H   H   H H H   H   H|
+| HHHHH H HHH HHHHHHH H H H HHHHHHH HHHHH HHHHHHH H H H HHHHH HHH H H H HHH HHH H H H H HHH H HHHHH H HHH H H H H HHHHH HHH HHH H HHH HHHHH HHHHH HHH H|
+| H H   H   H H     H H H H H     H     H H     H H H H     H   H   H   H     H H H H   H   H H     H H     H H H     H H     H H       H   H     H H H|
+| H H HHHHH H H H HHH HHH H H HHH HHHHH HHH HHH H H H HHHHH H H HHHHHHHHH HHHHH H H HHHHH HHH H HHHHH H HHHHH H HHHHH HHH HHHHH HHHHHHH H HHH HHHHH H H|
+|   H     H H   H H   H   H H H   H   H H   H H H   H H   H H H   H     H H   H H   H     H     H     H H   H   H H   H   H   H   H     H   H H     H H|
+|HH HHHHH H HHHHH H HHH HHH H H HHHHH H H HHH H HHH H H H H H H H H HHH H H H H H HHH HHHHHHHHHHH HHHHH H H HHH H H HHH HHH H HHH H HHHHHHH H HHHHH H H|
+| H H   H   H H   H   H H H   H     H   H H   H   H H   H   H H H H H   H   H   H   H H           H     H H   H   H     H   H     H     H   H     H H H|
+| H H HHHHHHH H HHHHH H H HHHHHHHHH H HHH HHH HHH H HHHHHHHHH H H HHH H HHHHHHH HHHHH H HHH HHHHHHHHHHHHH HHH HHH HHHHH H HHHHHHHHHHHHH H HHH HHH H H H|
+|   H   H     H H H   H H     H   H H     H   H   H   H   H   H H     H H     H     H H H   H               H H   H   H H   H           H H   H   H   H|
+| HHH H H HHH H H H HHH HHHHH H H H HHHHHHH H H HHHHH HHH H HHH HHHHHHHHH HHH HHHHH H H H HHH HHHHHHHHHHHHHHH HHHHH H HHHHH H HHHHHHHHHHH H HHH HHHHH H|
+| H   H H H   H H H H   H     H H H H       H H   H     H   H   H   H     H   H       H H H   H H   H       H H   H H       H H         H H   H     H H|
+| HHHHH H H HHH H H H HHH HHHHH H H HHHHH HHH HHH HHHHH HHHHH HHH H H HHHHH HHHHHHHHH H HHH HHH H H H HHHHH H H H H HHHHHHH HHH HHHHHHH H HHHHHHH H HHH|
+| H   H   H   H   H H H   H     H H H   H   H   H   H H       H   H   H     H     H   H H   H     H H   H H   H H   H   H H H   H     H H       H H   H|
+| H H HHH HHH HHH H H H H H HHHHH H H H HHH H HHHHH H HHHHHHH H HHHHHHH HHHHH HHH HHHHH H HHH HHHHH HHH H HHHHH HHHHH H H H H HHH HHHHH HHHHHHH HHHHH H|
+| H H   H   H     H   H H   H     H H H   H H H     H   H   H H   H   H H   H   H H   H   H   H     H   H       H     H   H H H   H           H       H|
+| H HHH HHH HHHHHHHHHHH HHHHH HHH H H HHH H HHH HHHHHHH H H H HHH HHH H HHH H H H H H HHH HHH H HHHHH HHH H HHHHH HHH HHHHH H HHH H HHHHHHHHH HHHHHHH H|
+|   H   H   H         H H   H H   H     H H           H   H   H H   H H   H   H H   H   H   H H     H H H H   H     H     H H     H H   H   H     H   H|
+|HHHH HHH HHHHH HHHHH HHH H H HHHHHHHHHHH HHHHHHHHHHH HHH HHHHH HHH H HHH HHHHH HHHHHHH HHH H HHHHH H H H HHH H HHHHHHHHH H HHHHH H H H H HHH HHHHH HHH|
+|   H H H H     H         H H H     H     H         H   H         H H   H   H   H H     H H H     H H H   H   H   H       H   H   H H H H     H   H H H|
+| HHH H H H HHHHH HHHHHHHHH H H HHH H HHHHH HHHHHHH HHH HHHHH HHHHH H H HHH H HHH H HHHHH H HHHHHHH H H HHH HHHHH H H HHHHHHH H HHH H H HHHHH H H H H H|
+|     H H H H H   H     H     H   H H H   H   H   H H H   H H H     H H     H H   H     H         H H H   H H     H H H     H H H   H H H   H H H H   H|
+| HHHHH H H H H HHH HHH HHHHH HHH H H H H H HHH H H H HHH H H H HHHHH HHHHHHH HHH HHHHH HHHHHHHHH H H HHH H HHH HHH H H H HHH H H H H H H H HHH H HHH H|
+|     H   H H H   H H H   H   H   H   H H H H   H   H   H H   H H H   H     H   H       H   H H   H H H   H   H H   H H H H   H H H H H   H     H   H H|
+|HHHH H HHH H HHH H H HHH HHH H HHHHHHH H H H HHHHHHH H H H HHH H H HHH H H HHH H HHHHHHH H H H HHH H HHHHHHH HHH HHHHH H H HHH H HHH HHHHHHHHHHHHH H H|
+|   H H     H   H H H   H   H H   H     H   H   H   H H   H H   H   H H H H H   H   H     H H       H   H   H   H     H H   H   H   H H           H   H|
+|HH H HHHHHHH H H H H HHHHH HHH H H HHHHHHHHHHH H H HHHHH HHH HHH HHH H H H H HHHHH H HHH H HHHHHHH HHH H H H H HHHHH H HHHHH HHHHH H H HHHHH HHH HHHHH|
+|   H   H   H H H H H     H   H H H H   H     H   H     H     H H   H   H H   H     H   H H H   H H H H   H H H H   H     H   H   H H H H   H   H     H|
+| HHHHH H H H H H H HHHHH HHH HHH H H H H HHHHHHHHHHHHH HHHHHHH HHH H HHH HHHHH HHHHHHHHH H H H H H H HHHHH HHH H H HHHHHHH HHHHH H H HHH H HHH HHHHH H|
+| H   H   H H H   H   H     H H   H   H H       H   H   H       H   H H   H     H         H   H H H H     H   H   H         H     H H     H H   H     H|
+| H H HHHHH HHHHHHHHH H HHHHH H HHHHHHH H HHHHH H H H HHH HHH H H HHHHH HHH HHHHH HHHHHHHHHHHHH H H H HHHHHHH HHHHH HHHHHHHHH H H H HHHHHHH HHHHH HHH H|
+|   H     H H     H   H H     H H   H   H H   H H H   H   H   H H       H H   H   H H     H     H   H       H     H H       H H H H   H   H H   H   H H|
+|HHHHHHHH H H HHH H HHH H HHHHH H H H HHH H H H H HHHHH HHH HHHHHHHHHHHHH HHH HHH H H HHH H HHHHHHH HHHHH H HHHHH H H HHHHH HHH H H H HHH H H H HHH H H|
+|       H H   H H H   H   H     H H H   H H H H H   H H H H   H         H   H     H   H H H       H       H H   H H   H H   H   H H H     H   H     H H|
+| HHHHH H HHHHH H HHH HHH H H HHH H HHH H H H H HHH H H H HHH H H HHHHHHH H HHHHHHH HHH H HHHHHHH HHHHHHHHH HHH H HHHHH H HHH HHH H HHHHHHHHHHHHHHHHH H|
+|   H     H     H   H   H   H H   H     H H H     H H H     H   H H       H             H     H   H     H   H   H   H   H H   H   H   H             H H|
+| H HHHHH H HHH HHH HHH HHHHH H HHHHHHHHHHH HHHHHHH H HHHHH HHHHH H HHHHHHHHHHHHHHHHHHHHHHH H H HHH H HHH HHH HHHHH H HHH HHH HHHHHHH H HHH HHHHHHH H H|
+| H H   H H H H   H H   H     H H   H       H       H H   H H   H H H     H         H       H H   H H   H H     H   H   H   H   H     H   H   H     H H|
+| H H H HHH H H HHH H HHH HHHHH H H H H HHHHH HHHHHHH H H H HHH H H H H HHH HHHHHHH H HHHHHHH HHH HHHHH H HHHHH H HHH H HHH HHH H HHHHHHH HHH H HHHHH H|
+| H   H   H H H     H   H     H H H   H     H H     H   H H H   H   H H H   H       H   H   H   H     H H       H   H H       H H H     H H   H H   H H|
+| HHHHHHH H H HHHHHHHHH HHHHH H HHHHH HHHHH H H HHH H HHH H H H HHHHH HHH HHH HHH HHHHH H H HHHHHHHHH H HHHHHHH HHH HHH HHHHH H H H HHH H H HHHHH H H H|
+| H     H H H   H       H   H H H   H H     H H H   H H   H   H   H       H   H   H   H   H         H H H         H   H H   H   H     H   H H   H H   H|
+| H HHH H H HHH H HHH HHH H H H H H HHH HHHHH H H HHH H HHHHHHHHH H HHHHHHH HHH HHH H HHHHHHHHHHH HHH H H HHHHHHHHHHH HHH H HHH HHHHHHHHHHH H H H HHHHH|
+| H   H   H H   H   H H   H H H H H   H   H   H H H   H H       H H   H   H H H H   H     H       H   H   H     H   H H   H   H H H         H H   H   H|
+|HHHH H HHH H HHHHH H H HHH H H H HHH HHH H HHH H H HHH H HHH HHH HHH HHH H H H H HHHHHHH H HHHHHHH HHHHHHH HHH H H H H HHHHH H H H HHHHHHH H HHHHHHH H|
+|     H H   H   H   H     H H H H H H   H H   H H H H   H H H   H   H H   H H H H   H   H   H       H       H   H H H   H     H H H   H     H H       H|
+| HHHHH H HHH H H HHHHHHHHH HHH H H HHH H HHH HHH H H HHH H HHH HHH H H HHH H H HHH H HHHHH H HHHHHHH HHHHHHH HHH H H HHH HHHHH H HHH H HHHHH H HHHHHHH|
+| H     H H   H   H   H   H     H H   H H   H   H   H         H H   H   H   H H   H H       H     H       H   H   H H   H H         H H H   H H H     H|
+| HHHHHHH H HHHHHHH H H H HHHHH H H H H H H HHH HHHHHHHHHHHHHHH H HHH HHH HHH HHH H HHHHHHHHHHHHH HHH HHH HHH H HHH HHH H HHHHHHHHHHH H H H H H H HHH H|
+| H     H H       H H   H     H   H H H   H   H   H       H   H H   H H   H     H H             H   H   H   H   H   H   H H   H       H   H H H     H H|
+| H HHH H HHHHHHH H HHHHHHHHH HHHHH H HHHHHHH HHH H HHHHH H H H HHH H H HHH HHH H HHHHHHHHH HHH HHH HHHHH H HHHHH HHH HHH H H H H HHHHHHHHHHH HHHHHHH H|
+| H   H H   H   H H   H     H H   H H         H   H   H     H   H   H H H H H H H H       H   H   H H   H H H   H   H   H   H H H H   H   H   H     H H|
+| HHH H HHH H H HHHHH H HHHHH H H HHHHHHHHHHHHH HHH H HHHHHHHHHHH HHHHH H H H H H HHHHH H HHH HHHHH H H HHH H H HHH HHHHHHHHH H HHH H H H H HHH HHH H H|
+|     H       H       H         H               H   H                   H     H         H   H         H     H H               H     H   H       H     H|
+*------------------------------------------------------------------------------------------------------------------------------------------------------*
+
+The time taken by the DFS algorithm is 4.555114 seconds
+
+
+*--------------------The Mazes for this Run of the code are printed below--------------------*
+
+
+
+---Index 1---
+
+*----------------------------------------------------------------------------------------------------*
+|S        H   H           H               H     H         H       H   H             H       H       H|
+| HHHHHHH H H HHHHH HHH H H HHHHHHHHHHHHH HHH H H HHHHHHH H HHH H HHH H HHHHH HHHHH H HHH HHH H HHHHH|
+|     H   H H     H   H H   H         H H     H H H       H H   H     H   H   H   H   H   H   H     H|
+| H HHH HHH HHHHH HHH H HHHHH HHHHHHH H HHHHHHH H H HHHHHHH H HHHHHHH HHH H HHH H HHHHH HHH HHHHHHH H|
+| H   H   H   H     H H H   H   H   H H   H   H H H   H   H H   H   H   H H     H H       H   H   H H|
+| HHH HHH H H HHHHH H H H H H HHH H H H H H H H H HHH H H H HHH H HHHHH H HHHHHHH H HHHHHHHHH HHH H H|
+| H H     H H     H H H   H H H   H   H H   H   H H H   H     H H       H H H   H H     H   H     H H|
+| H HHHHHHH HHHHH H HHHHH H H H HHHHHHH HHHHHHHHH H HHHHHHHHHHH HHHHHHHHH H H H H H HHHHH H H HHHHH H|
+|       H       H H     H H   H   H   H       H     H   H       H       H   H H   H H     H   H     H|
+|HHHHHH HHH HHHHH HHHHH H HHHHHHH H H HHHHHHH HHHHHHH H H HHHHH H HHHHH HHH H HHHHHHH HHHHHHHHH HHH H|
+|     H   H H     H   H H   H   H   H     H H         H H H     H     H   H H H   H   H   H     H   H|
+| H HHHHH HHH HHHHH H H HHH HHH HHHHHHHHH H HHHHHHHHHHH H HHH HHHHHHH HHH H H H H H HHH H H HHHHH HHH|
+| H     H H   H     H H   H       H   H   H     H   H H H   H   H     H   H H   H   H   H   H     H H|
+|HHHH H H H HHH HHH H HHH HHHHHHH H H H HHH H H H H H H H H HHHHH HHHHH H H HHHHHHHHH HHHHHHH HHHHH H|
+|     H H H   H H   H   H   H H   H H   H   H H   H   H H H       H     H H   H     H   H   H H     H|
+| HHHHH H HHH HHH HHH HHHHH H H HHH HHHHH HHH H HHHHHHH H HHHHHHHHH HHHHHHHHH H HHH HHH HHH H HHH H H|
+|   H   H H   H   H   H     H H   H   H     H H H       H H       H         H H   H   H   H H   H H H|
+| H HHHHH H HHH HHHHHHH HHHHH HHH HHH H HHHHH H H HHHHHHH H HHHHH HHHHHHH HHH HHHHHHH HHH H HHH HHH H|
+| H   H   H   H H       H   H       H H H     H H H     H H H     H     H   H H     H   H H       H H|
+| HHH H HHH H H H HHHHH HHH H HHHHHHH H H HHHHHHH HHHHH H HHH HHH H H HHHHH H H HHH H H H HHHHHHH H H|
+|   H H   H H H   H   H   H H H       H H       H H   H       H H H H     H H H H     H H H   H     H|
+|HH H HHH H H HHHHH H HHH H H H HHHHHHH HHHHHHH H H H HHHHHHHHH H HHH HHH H H H HHHHH HHH H H HHHHH H|
+|   H   H H H H     H H H H   H H     H       H H H H         H H   H   H H   H H   H H   H H H   H H|
+| HHHHH H HHH H HHHHH H H HHH H H HHH HHHHHHH H H H HHHHHHHHH H HHH HHH H HHHHH H H H H HHH H H H H H|
+| H H   H   H   H   H H     H H H H H       H H   H     H H   H   H H   H   H     H H H H   H   H H H|
+| H H HHHHH H HHHHH H HHHHH HHH H H HHHHH HHH HHHHH HHH H H HHH HHH HHHHH H H HHHHH HHH H HHHHHHH H H|
+|   H     H H       H     H H   H       H   H H     H   H H H H   H H     H H H   H   H     H     H H|
+|HH HHHHH H HHHHHHH HHHHH H H HHHHHHHHH HHH H HHHHHHH HHH H H H H H H HHHHH HHH H HHH HHHHHHH HHHHH H|
+| H H   H   H     H   H H H H H       H H H   H   H   H H   H   H H   H   H H   H       H   H   H   H|
+| H H HHHHHHH HHH HHH H H H H HHHHH H H H HHHHH H H HHH H HHH HHH HHHHHHH H H HHH HHHHH H H H H HHHHH|
+|   H H       H H H H   H H   H     H H H     H H   H     H H   H         H H H H H   H H H H H     H|
+| HHH H HHH HHH H H HHH H HHHHH HHH HHH H HHH H HHHHH HHHHH HHH HHHHH H H H H H H H H HHH H H HHHHH H|
+| H     H   H     H     H H     H   H   H H   H     H   H     H H   H H H H   H   H H     H H H   H H|
+| HHHHH H HHHHHHH HHHHHHH H H HHH HHH HHH HHH HHHHH HHH H HHHHH H H HHH HHHHHHH HHH HHHHHHH H HHH H H|
+| H   H H H     H   H   H H H H     H   H   H       H H H       H H   H   H       H H   H   H     H H|
+| H H HHH H HHH HHH H H H H H HHHHH HHH H H HHHHHHHHH H H HHHHHHH HHH H H H HHHHHHH H H H HHHHHHHHH H|
+| H H   H H H H   H   H   H H   H   H   H H H   H       H H     H H   H H     H     H H H H         H|
+| H HHH H H H HHH HHHHHHHHH HHH HHHHH HHH H H H H HHHHHHHHH HHH H H HHHHHHHHHHH HHHHHHH H HHH HHHHH H|
+|   H   H H H   H H       H H H       H   H H H       H     H     H         H   H       H H   H   H H|
+|HHHH HHH H HHH H HHHHH HHH H HHHHHHHHH HHH HHHHHHHHH H H H HHHHHHHHHHHHHHH H HHH H HHHHH H HHH HHH H|
+|   H H   H   H H     H     H     H   H   H         H H H H H           H   H   H H       H H   H   H|
+| HHH H H HHH H HHHHH H HHHHH H H HHH H HHHHHHH HHH H HHH HHH HHHHHHHHH HHH HHH H HHHHHHHHH H H H HHH|
+|     H H         H   H H     H H   H   H     H H   H   H   H H H     H   H   H H       H   H H H   H|
+| HHHHH HHHHHHHHHHH HHH HHHHHHH HHH HHHHH HHH HHH HHHHH H H H H H HHH H H HHH H HHHHHHH H HHHHH HHH H|
+|     H H   H     H H   H     H   H H   H H H   H   H   H H     H H H H H H   H H       H   H   H   H|
+|HHHH HHH H H HHH H HHH H HHH HHH H H H H H HHH HHH H HHHHHHHHHHH H H HHH H HHH H HHHHHHHHH H HHH HHH|
+|   H H   H H H H H   H H   H     H   H H H   H   H H H         H H H     H     H   H       H   H H H|
+| HHH H HHH H H H HHH H HHH HHHHHHHHHHH H H HHHHH H H HHH HHHHH H H HHHHHHHHHHHHHHH H HHHHHHH H H H H|
+|       H     H       H     H             H         H     H       H                   H       H     H|
+|HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH|
+*----------------------------------------------------------------------------------------------------*
+
+The time taken by the DFS algorithm is 0.633372 seconds
