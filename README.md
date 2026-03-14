@@ -21,7 +21,8 @@ The maze is generated using Randomized Depth-First Search:
 
 This algorithm ensures the maze is fully connected and acyclic.
 
-##For Maze_solver.c
+## For Maze_solver.c
+
 I also wrote a standalone maze generation and solving program.
 This program is a C-based maze solver that uses a recursive backtracking algorithm to find a path from the starting position to a specific goal.
 
